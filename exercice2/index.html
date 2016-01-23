@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <title>Exercice 2 : où lier un script ?</title>
+    <script src="script.js"></script>
+    <script src="script2.js"></script>
+    <script src="script3.js" async></script>
+</head>
+<body>
+    <h1>Deuxième essai :</h1>
+    <div class="test test1"></div>
+    <div class="test test2"></div>
+    <div class="test test3"></div>
+    <div class="test test4"></div>
+    <script>
+        var element = document.querySelector('.test1');
+        element.textContent = "Hello World!";
+    </script>
+</body>
+</html>

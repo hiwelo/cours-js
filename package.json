@@ -16,5 +16,14 @@
   "devDependencies": {
     "jshint": "^2.9.1",
     "jshint-stylish": "^2.1.0"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiwelo/cours-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hiwelo/cours-js/issues"
+  },
+  "homepage": "https://github.com/hiwelo/cours-js#readme"
 }

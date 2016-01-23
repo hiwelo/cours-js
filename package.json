@@ -17,6 +17,7 @@
     "jshint-stylish": "^2.1.0"
   },
   "scripts": {
-    "jshint": "jshint **.js"
+    "jshint": "jshint **/*.js",
+    "tests": "npm run jshint"
   }
 }

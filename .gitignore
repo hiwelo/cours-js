@@ -1,2 +1,3 @@
 # NodeJS ignore dir & files
 node_modules/
+npm-debug.log

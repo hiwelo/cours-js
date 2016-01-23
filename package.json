@@ -1,6 +1,6 @@
 {
   "name": "cours-js",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Cours d'initiation au JavaScript et à jQuery",
   "main": "README.md",
   "scripts": {

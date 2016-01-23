@@ -4,8 +4,8 @@
   "description": "Cours d'initiation au JavaScript et à jQuery",
   "main": "README.md",
   "scripts": {
-    "jshint": "jshint **/*.js",
-    "tests": "npm run jshint"
+    "lint": "npm run jshint",
+    "jshint": "jshint **/*.js"
   },
   "keywords": [
     "cours",

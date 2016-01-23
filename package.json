@@ -1,0 +1,22 @@
+{
+  "name": "cours-js",
+  "version": "0.0.1",
+  "description": "Cours d'initiation au JavaScript et à jQuery",
+  "main": "README.md",
+  "scripts": {
+    "test": "npm run tests"
+  },
+  "keywords": [
+    "cours",
+    "javascript"
+  ],
+  "author": "Damien Senger <hi@hiwelo.co>",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "jshint": "^2.9.1",
+    "jshint-stylish": "^2.1.0"
+  },
+  "scripts": {
+    "jshint": "jshint **.js"
+  }
+}

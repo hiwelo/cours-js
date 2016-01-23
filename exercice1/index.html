@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <title>Exercice 1 : lier un script à une page</title>
+</head>
+<body>
+    <h1>Premier essai :</h1>
+    <div class="test test1"></div>
+    <div class="test test2"></div>
+    <script>
+        var element = document.querySelector('.test1');
+        element.textContent = "Hello World!";
+    </script>
+    <script src="script.js"></script>
+</body>
+</html>

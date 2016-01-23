@@ -5,7 +5,8 @@
   "main": "README.md",
   "scripts": {
     "lint": "npm run jshint",
-    "jshint": "jshint **/*.js"
+    "jshint": "jshint **/*.js",
+    "setup": "rm exercice*/script*.js"
   },
   "keywords": [
     "cours",

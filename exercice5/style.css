@@ -1,0 +1,15 @@
+.carre {
+  display: inline-block;
+  height: 100px;
+  margin: 0 50px;
+  width: 100px;
+  background: darkgrey;
+}
+
+.carre.initOk {
+  background: darkred;
+}
+
+.carre.clicked {
+  background: #fc0;
+}

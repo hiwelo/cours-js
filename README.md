@@ -21,6 +21,7 @@
    - Petits rappels concernant les sélecteurs CSS
    - Cibler un élément du DOM
    - Fonctionnement des _&laquo; chaînes &raquo;_ de fonctions
+   - Présentation des principales fonctions génériques de jQuery
 
 ### 4. Place aux événements
    - Gérer les événements utilisateur souris et clavier

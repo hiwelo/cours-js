@@ -1,0 +1,10 @@
+.test {
+  display: inline-block;
+  margin: 50px;
+  height: 100px;
+  width: 100px;
+}
+
+.test1 {
+  background-color: #ffcc00;
+}

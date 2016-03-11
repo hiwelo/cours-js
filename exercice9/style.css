@@ -1,0 +1,25 @@
+.boutons {
+  text-align: center;
+}
+
+[class^="btn"] {
+  margin: 50px 20px 0;
+}
+
+.rect1,
+.rect2 {
+  margin: 100px auto;
+  padding: 30px 0;
+  width: 85%;
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.rect1 {
+  background: red;
+}
+
+.rect2 {
+  background: green;
+}

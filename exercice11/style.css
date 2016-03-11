@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+}
+
+.boutons {
+  text-align: center;
+}
+
+[class^="btn"] {
+  margin: 50px 20px 0;
+}
+
+.rectangle {
+  display: inline-block;
+  height: 150px;
+  margin: 100px 50px;
+  width: 150px;
+  background: green;
+}
+
+.is-red {
+  background: red;
+}
